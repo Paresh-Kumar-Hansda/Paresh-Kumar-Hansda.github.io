@@ -4,7 +4,7 @@ text-align: center;
 }
 .bluish{
 color: blue;
-background-color: lightgray;
+background-color: white;
 }
 
 h1 {
@@ -21,4 +21,7 @@ color: green;
 }
 #math{
 color: yellow;
+}
+#search{
+color: orange;
 }
