@@ -1,8 +1,11 @@
 body {
 background-color: lightblue;
 text-align: center;
-
 }
+.bluish{
+color: blue;
+}
+
 
 h1 {
 color: navy;
